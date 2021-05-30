@@ -1,3 +1,4 @@
+// todo: excercise description
 const words = ["hello", "coffee", "tofe"]
 const letters = ["h", "e", "l", "l", "o", "c", "f", "t"]
 
